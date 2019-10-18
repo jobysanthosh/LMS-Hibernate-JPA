@@ -1,0 +1,7 @@
+com\ss\wk4\MyHibJpa\controller\AuthorController.class
+com\ss\wk4\MyHibJpa\controller\BookController.class
+com\ss\wk4\MyHibJpa\dao\BookDao.class
+com\ss\wk4\MyHibJpa\dao\AuthorDao.class
+com\ss\wk4\MyHibJpa\entities\Book.class
+com\ss\wk4\MyHibJpa\entities\Author.class
+com\ss\wk4\MyHibJpa\MyHibJpaApplication.class
